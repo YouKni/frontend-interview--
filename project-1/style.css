@@ -1,0 +1,15 @@
+/* 父容器样式 */
+.container {
+    width: 500px;
+    height: 500px;
+    border: 2px solid #000;
+    position: relative;
+}
+
+/* 积木块样式 */
+.block {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
